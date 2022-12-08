@@ -1,0 +1,23 @@
+{
+  "name": "my-refocus-assignment",
+  "version": "1.0.0",
+  "description": "My name is Mj Santos, 38 yrs old. I live in QC.\r My hobbies are playing basket ball, work out and playing video games.\r My goal for this year is to able to master the coding in java script.\r I want to become web developer because i want to be part and understand more in IT industry and enhance my skills and knowledge.",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mows24/My-Refocus-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mows24/My-Refocus-Assignment/issues"
+  },
+  "homepage": "https://github.com/mows24/My-Refocus-Assignment#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
