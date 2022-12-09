@@ -7,10 +7,11 @@ function calculateBMI(weight, height) {
     else  if(BMI >= 30){
         console.log('You are overweight')
     }
-    console.log(BMI);
+    // console.log(BMI);
+    return BMI;
 };
 
-calculateBMI(50, 1.32);
+console.log(calculateBMI(50, 1.32));
 
 // Manual testing
 // 50 / 1.32 * 1.32
